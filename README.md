@@ -3,11 +3,26 @@
 
 I am a designer and programmer, with a background in interactivity, digital art, and computer-enabled experiences. If you're working on something weird, fun, thoughtful, or rebellious, I'd like to help you make that thing happen!
 
-- I built this blog-ish website generator [Superstructure](https://github.com/Bradshaw/superstructure)
+- I built [Superstructure](https://github.com/Bradshaw/superstructure), an opinionated website builder for blog-ish websites.
+  - It's what I use to generate [my website](https://spaceshipsin.space/)
+  - It uses [Pug](https://pugjs.org/api/getting-started.html) and [Sass](https://sass-lang.com/) to handle layouts and styling
+  - It takes [Markdown](https://www.markdownguide.org/)-formatted articles and generates pages
+  - With a little bit of [YAML](https://yaml.org/) metadata in the articles, it handles everything else:
+    - Tagging and listing on post and tag-specific pages
+    - RSS/Atom feed generation
+    - [Open Graph](https://ogp.me/) and [IndieWeb](https://indieweb.org/) metadata generation
+    - And other sweet things, like alternate layouts and stylesheets...
 
 - I’m currently learning **Rust, TypeScript & React**
+  - I'm really enjoying learning Rust! It's nice to use a language that guides you to good software design!
+  - I've used JavaScript a lot, and I'm excited to see how TypeScript makes JavaScript development more reliable!
+  - React is new to me, I'm looking forward to seeing what I can make with it!
 
-- I like to play with mathematical art [Nebulae](https://github.com/Bradshaw/nebulae)
+- I made [Nebulae](https://github.com/Bradshaw/nebulae), a renderer for an alternative way of representing the Mandelbrot set.
+  - I used this project to learn Rust and writing highly parallelised code
+  - A classic Mandelbrot renderer colors pixels based on the number of iterations to escape the Mandelbrot set
+  - A "Nebulabrot" instead draws a "heat map" of the trajectories taken during iteration
+  - *tl;dr:* It makes pretty pictures with mathematics
 
 - I like to play with modular synths [THONKIN'](https://www.youtube.com/watch?v=OFXQwXD4GSo)
 
