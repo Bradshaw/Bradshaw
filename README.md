@@ -24,7 +24,7 @@ I am a designer and programmer, with a background in interactivity, digital art,
   - A "Nebulabrot" instead draws a "heat map" of the trajectories taken during iteration
   - *tl;dr:* It makes pretty pictures with mathematics
 
-- I like to play with modular synths [THONKIN'](https://www.youtube.com/watch?v=OFXQwXD4GSo)
+- I like to play with modular synths, listen to one of my jams: [THONKIN'](https://www.youtube.com/watch?v=OFXQwXD4GSo)
 
 - Some of my projects are visible [on my portfolio](https://spaceshipsin.space/portfolio)
 
